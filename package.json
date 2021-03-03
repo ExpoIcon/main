@@ -1,0 +1,21 @@
+{
+  "name": "expoicon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^7.3.1",
+    "@types/listr": "^0.14.2",
+    "delay": "^5.0.0",
+    "execa": "^5.0.0",
+    "inquirer": "^8.0.0",
+    "listr": "^0.14.3",
+    "ora": "^5.3.0"
+  }
+}
